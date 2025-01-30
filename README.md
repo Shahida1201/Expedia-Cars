@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Expedia-Cars
+The project is a React.js page similar to Expedia Cars where users can search for car rentals using hardcoded data for locations, dates, and options. It includes a search form, filters and results display. The page will be fully responsive on iOS and Android deployed for review, and version-controlled on GitHub.
+>>>>>>> 99f22f36003f7a692c38881cd99b26f33dcf22de
